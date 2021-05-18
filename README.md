@@ -47,3 +47,16 @@ example templates for python ROS nodes
   * Send message and wait for goal
   * Preempt a goal
   * interrogate an action while is is executing
+
+
+#### [msg - ROS Wiki](http://wiki.ros.org/msg)
+#### [std_msgs - ROS Wiki](http://wiki.ros.org/std_msgs)
+#### [trajectory_msgs/JointTrajectory Documentation](http://docs.ros.org/en/melodic/api/trajectory_msgs/html/msg/JointTrajectory.html)
+#### [(actionlib_msgs)](http://wiki.ros.org/actionlib_msgs?distro=noetic)
+#### [(diagnostic_msgs)](http://wiki.ros.org/diagnostic_msgs?distro=noetic)
+#### [(diagnostic_msgs)](http://wiki.ros.org/diagnostic_msgs?distro=noetic)
+#### [(sensor_msgs)](http://wiki.ros.org/sensor_msgs?distro=noetic)
+#### [(shape_msgs)](http://wiki.ros.org/shape_msgs?distro=noetic)
+#### [(stereo_msgs)](http://wiki.ros.org/stereo_msgs?distro=noetic)
+#### [(trajectory_msgs)](http://wiki.ros.org/trajectory_msgs?distro=noetic)
+#### [(visualization_msgs)](http://wiki.ros.org/visualization_msgs?distro=noetic)
